@@ -1,5 +1,4 @@
 import Container from "../layout/Container";
-import SectionTitle from "../common/SectionTitle";
 import Button from "../common/Button";
 
 const DealSection = () => {
