@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Container from "./container";
 import MainNav from "./mainnav";
-import TopBar from "./topBar";
+import TopBar from "./topbar";
 
 export default function Header() {
   const [isSticky, setIsSticky] = useState(false);
