@@ -73,7 +73,7 @@ export default function Header() {
           <div className="bg-white">
             <Container className="flex items-center justify-between py-3">
               <div className="flex items-center gap-6">
-                <button className="flex items-center gap-3 bg-rose-600 px-5 py-3 text-white font-semibold hover:bg-rose-700">
+                <button className="flex w-[280px] items-center justify-center gap-3 bg-rose-600 px-5 py-3 text-white font-semibold hover:bg-rose-700">
                   <MenuIcon className="h-5 w-5" />
                   Categories
                 </button>
